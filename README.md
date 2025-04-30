@@ -36,10 +36,32 @@ These are my Python scripts. Each entry lists the name of the script and what th
 
 **ascii_art.py** Defines ascii art and prints out symmetrically to the terminal.
 
+**boolean_variables.py** Defines boolean variables, prints True or False to the terminal as well as the class of variable.
+
+**if_statement.py** Defines a variable, evaluates an if expression and prints the correct output to the terminal.
+
+**multiple_if_statements.py** Defines multiple variables, evaluates multiple expressions, prints expected output to the terminal.
+
+**and_statement.py** Defines multiple variables, evaluates an and statement, prints expected output to the terminal.
+
+**or_statement.py** Defines multiple variables, evaluates an or statement, prints expected output to the terminal.
+
+**not_statement.py** Defines multiple variables, evaluates a not statement, prints expected output to the terminal.
+
+**else_statement.py** Defines multiple variables, evaluates an else statement, prints expected output to the terminal.
+
+**else_if_statement.py** Defines multiple variables, evaluates an else if statement, prints expected output to the terminal.
+
+**advanced_else_if_statement.py** Defines multiple variables, evaluates an advanced else if statement, prints expected output to the terminal.
+
 ## Code
 This is the code I have written. Each program details what the program does and what the end result ended up being.
 
 **loveseat_project.py** This code tracks inventory, determines a customer's order, calculates sales tax, and provides the customer with the total for their purchase including price of items purchased as well as sales tax.
+
+**magic_8_ball.py** This code takes the user's name, prompts them to ask a question, executes a random number generator, and the randomly decided integer then determines the string printed to the terminal to answer their question.
+
+**sals_shipping.py** This code takes the weight from a user, compares it to the available shipping options and provides the customer with the cost for each option based on the weight of what they are shipping.
 
 ## Contributing
 Any and all feedback is always welcome.
