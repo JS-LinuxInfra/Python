@@ -20,7 +20,7 @@ print("Dinner:")
 print(meal)
 
 Breakfast:
-An english muffin
+An English muffin
 Lunch:
 A Rueben sandwhich
 Dinner:
