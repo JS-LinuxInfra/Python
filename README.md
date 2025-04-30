@@ -36,6 +36,8 @@ These are my Python scripts. Each entry lists the name of the script and what th
 **ascii_art.py** Defines ascii art and prints out symmetrically to the terminal.
 
 ## Code
+This is the code I have written. Each program details what the program does and what the end result ended up being.
+
 **loveseat_project.py** This code tracks inventory, determines a customer's order, calculates sales tax, and provides the customer with the total for their purchase including price of items purchased as well as sales tax.
 
 ## Contributing
