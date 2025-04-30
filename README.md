@@ -4,6 +4,7 @@ Python scripting for everyday system engineering tasks. The goal is to automate 
 ## Table of Contents
 - [Overview](#overview)
 - [Scripts](#scripts)
+- [Code](#code)
 - [Contributing](#contributing)
 - [License](#license)
 - [Acknowledgments](#acknowledgments)
