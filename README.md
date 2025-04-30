@@ -3,7 +3,8 @@ Python scripting for everyday system engineering tasks. The goal is to automate 
 
 ## Features
 
-## Installation/Usage Instructions
+## Scripts
+helloworld.yaml - This script defines the variables for a hello world script, greets the user and provides a return greeting
 
 ## Contributing
 Any and all feedback is always welcome.
