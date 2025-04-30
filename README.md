@@ -9,7 +9,8 @@ Python scripting for everyday system engineering tasks. The goal is to automate 
 - [Acknowledgments](#acknowledgments)
 
 ## Scripts
-**helloworld.py** This script defines the variables for a hello world script, greets the user and provides a return greeting
+**Basic helloworld.py** This script defines your name and prints a greeting
+**Advanced helloworld.py** This script defines the variables for a hello world script, greets the user and provides a return greeting
 
 ## Contributing
 Any and all feedback is always welcome.
