@@ -12,7 +12,8 @@ Python scripting for everyday system engineering tasks. The goal is to automate 
 ## Scripts
 These are my Python scripts. Each entry lists the name of the script and what the script does.
 
-**basic_hello_world.py** Defines your name and prints a greeting.
+1. 'basic_hello_world.py'
+Defines your name and prints a greeting.
 
 **advanced_hello_world.py** Defines the variables for a hello world script, greets the user and provides a return greeting.
 
