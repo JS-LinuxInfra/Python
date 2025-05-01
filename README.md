@@ -54,6 +54,16 @@ These are my Python scripts. Each entry lists the name of the script and what th
 
 **advanced_else_if_statement.py** Defines multiple variables, evaluates an advanced else if statement, prints expected output to the terminal.
 
+**list_method.py** Defines a list, removes the final integer and prints the remainder to the terminal.
+
+**list_append.py** Defines a list, appends two additional integers, and prints the updated list to the terminal.
+
+**list_elements.py** Defines a list, defines zero-indexing list position and prints out employee 3.
+
+**list_negative_index.py** Defines a list, defines negative zero-indexing list position and prints out the last element
+
+**modify_list.py** Defines a list, insert elements using positive and negative indexing, pring modified list to the terminal.
+
 ## Code
 This is the code I have written. Each program details what the program does and what the end result ended up being.
 
