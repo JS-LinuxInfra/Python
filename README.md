@@ -1,5 +1,4 @@
 # Python
-**Please note. This repo is currently in a WIP state, as I work to migrate scripts and code I have written, cleanup, comment and document functionality. As such, it may not be as cohesive or organized as it will be when everything has been migrated. Thank you in advance for your patience.**
 
 Python scripting for everyday system engineering tasks along with tooling I have started to work on. The goal is to automate repetitive work, speed up troubleshooting, and improve my overall proficiency with Python. This will be an ongoing project.
 
@@ -7,6 +6,8 @@ Python scripting for everyday system engineering tasks along with tooling I have
 - [Change Log](#changelog)
 - [Scripts](#scripts)
 - [Basic Syntax and Variables](#basic-syntax-and-variables)
+- [Boolean Variables and if/elif/else statements](#boolean-variables-and-if/elif/else-statements)
+- [Lists](#lists)
 - [Code](#code)
 - [Contributing](#contributing)
 - [License](#license)
@@ -61,61 +62,101 @@ Defines a multi-line string and prints to the terminal.
 
 Defines ASCII art and prints symmetrically to the terminal.
 
+### Boolean Variables and if/elif/else statements
 
+1. `boolean_variables.py`
 
+Defines boolean variables, prints True or False to the terminal as well as the class of variable.
 
-**boolean_variables.py** Defines boolean variables, prints True or False to the terminal as well as the class of variable.
+2. `if_statement.py`
 
-**if_statement.py** Defines a variable, evaluates an if expression and prints the correct output to the terminal.
+Defines a variable, evaluates an if expression and prints the correct output to the terminal.
 
-**multiple_if_statements.py** Defines multiple variables, evaluates multiple expressions, prints expected output to the terminal.
+3. `multiple_if_statements.py`
 
-**and_statement.py** Defines multiple variables, evaluates an and statement, prints expected output to the terminal.
+Defines multiple variables, evaluates multiple expressions, prints expected output to the terminal.
 
-**or_statement.py** Defines multiple variables, evaluates an or statement, prints expected output to the terminal.
+4. `and_statement.py`
 
-**not_statement.py** Defines multiple variables, evaluates a not statement, prints expected output to the terminal.
+Defines multiple variables, evaluates an and statement, prints expected output to the terminal.
 
-**else_statement.py** Defines multiple variables, evaluates an else statement, prints expected output to the terminal.
+5. `or_statement.py`
 
-**else_if_statement.py** Defines multiple variables, evaluates an else if statement, prints expected output to the terminal.
+Defines multiple variables, evaluates an or statement, prints expected output to the terminal.
 
-**advanced_else_if_statement.py** Defines multiple variables, evaluates an advanced else if statement, prints expected output to the terminal.
+6. `not_statement.py`
 
+Defines multiple variables, evaluates a not statement, prints expected output to the terminal.
 
+7. `else_statement.py`
 
+Defines multiple variables, evaluates an else statement, prints expected output to the terminal.
 
-**list_method.py** Defines a list, removes the final integer and prints the remainder to the terminal.
+8. `else_if_statement.py`
 
-**list_append.py** Defines a list, appends two additional integers, and prints the updated list to the terminal.
+Defines multiple variables, evaluates an else if statement, prints expected output to the terminal.
 
-**list_elements.py** Defines a list, defines zero-indexing list position and prints out employee 3.
+9. `advanced_else_if_statement.py`
 
-**list_negative_index.py** Defines a list, defines negative zero-indexing list position and prints out the last element
+Defines multiple variables, evaluates an advanced else if statement, prints expected output to the terminal.
 
-**modify_list.py** Defines a list, insert elements using positive and negative indexing, pring modified list to the terminal.
+### Lists
 
-**remove_list.py** Defines a list, removes an element and prints updated list to the terminal.
+1. `list_method.py`
 
-**2d_list.py** Create 2D list, update elements, print updated elements to the terminal.
+Defines a list, removes the final integer and prints the remainder to the terminal.
 
-**modify_2d_list.py** Create 2D list, modify elements and print output to the terminal.
+2. `list_append.py*`
 
-**advanced_modify_2d_list.py** Modify 2D list via both insertion and removal of elements in customer data list, then print the updated list.
+Defines a list, appends two additional integers, and prints the updated list to the terminal.
 
-Output:
-[['Ken', 'American', 9], ['Tanya', 'Ukrainian', 9], ['Madison', 'Indian', 7]]
+3. `list_elements.py`
+
+Defines a list, defines zero-indexing list position and prints out employee 3.
+
+4. `list_negative_index.py`
+  
+Defines a list, defines negative zero-indexing list position and prints out the last element.
+
+5. `modify_list.py`
+
+Defines a list, insert elements using positive and negative indexing, print modified list to the terminal.
+
+6. `remove_list.py`
+
+Defines a list, removes an element and prints updated list to the terminal.
+
+7. `2d_list.py`
+
+Create 2D list, update elements, print updated elements to the terminal.
+
+8. `modify_2d_list.py`
+
+Create 2D list, modify elements and print output to the terminal.
+
+9. `advanced_modify_2d_list.py`
+
+Modify 2D list via both insertion and removal of elements in customer data list, then print the updated list.
 
 ## Code
+
 This is the code I have written. Each program details what the program does and what the end result ended up being.
 
-**loveseat_project.py** This code tracks inventory, determines a customer's order, calculates sales tax, and provides the customer with the total for their purchase including price of items purchased as well as sales tax.
+1. `loveseat_project.py`
 
-**magic_8_ball.py** This code takes the user's name, prompts them to ask a question, executes a random number generator, and the randomly decided integer then determines the string printed to the terminal to answer their question.
+This code tracks inventory, determines a customer's order, calculates sales tax, and provides the customer with the total for their purchase including price of items purchased as well as sales tax.
 
-**sals_shipping.py** This code takes the weight from a user, compares it to the available shipping options and provides the customer with the cost for each option based on the weight of what they are shipping.
+2. `magic_8_ball.py`
 
-**gradebook.py** This code details multiple subjects and grades, determine pass/fail paramaters, modify via adding and removal of grades, print updated gradebook to terminal.
+This code takes the user's name, prompts them to ask a question, executes a random number generator, and the randomly decided integer then determines the string printed to the terminal to answer their question.
+
+3. `sals_shipping.py`
+
+This code takes the weight from a user, compares it to the available shipping options and provides the customer with the cost for each option based on the weight of what they are shipping.
+
+4. `gradebook.py`
+
+This code details multiple subjects and grades, determine pass/fail paramaters, modify via adding and removal of grades, print updated gradebook to terminal.
 
 ## Contributing
 Any and all feedback is always welcome.
