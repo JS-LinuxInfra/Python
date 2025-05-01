@@ -2,10 +2,9 @@
 Python scripting for everyday system engineering tasks. The goal is to automate repetitive work, speed up troubleshooting, and improve my overall proficiency with Python. This will be an ongoing project.
 
 ## Table of Contents
-- [Overview](#overview)
 - [Change Log](#changelog)
 - [Scripts](#scripts)
-- [Basic Syntax and Variables](#basicsyntaxandvariables)
+- [Basic Syntax and Variables](#basic-syntax-and-variables)
 - [Code](#code)
 - [Contributing](#contributing)
 - [License](#license)
@@ -30,7 +29,7 @@ Defines the variables for a hello world script, greets the user and provides a r
 
 3. `meals.py`
   
-Defines variables for food eaten at various mealsand prints what is eaten at each.
+Defines variables for food eaten at various meals and prints what is eaten at each.
 
 4. `integer.py`
   
@@ -42,27 +41,23 @@ Prints a basic mathematical calculation to the terminal.
 
 6. `exponents.py`
   
-Multiplies and exponentiates several variables.
+Performs modulo calculations on several variables and prints the output to the terminal.
 
-7. `exponents.py`
-  
-Performs module calculations on several variables and prints the output to the terminal.
-
-8. `concatenatation.py`
+7. `concatenation.py`
 
 Defines multiple strings, concatenates them together and prints the output to the terminal.
 
-9. `plus_equals.py`
+8. `plus_equals.py`
 
 Defines multiple variables, adds them together, and appends the output to the end of a string on the terminal.
 
-10. `multi_line_string.py`
+9. `multi_line_string.py`
    
 Defines a multi-line string and prints to the terminal.
 
-11. `ascii_art.py`
+10. `ascii_art.py`
 
-Defines ascii art and prints out symmetrically to the terminal.
+Defines ASCII art and prints symmetrically to the terminal.
 
 
 
