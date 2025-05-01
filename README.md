@@ -3,40 +3,69 @@ Python scripting for everyday system engineering tasks. The goal is to automate 
 
 ## Table of Contents
 - [Overview](#overview)
+- [Change Log](#changelog)
 - [Scripts](#scripts)
+- [Basic Syntax and Variables](#basicsyntaxandvariables)
 - [Code](#code)
 - [Contributing](#contributing)
 - [License](#license)
 - [Acknowledgments](#acknowledgments)
 
+## Changelog
+- **v1.0**: Initial creation with uploading and documenting all scripts and code written thus far.
+
 ## Scripts
+
 These are my Python scripts. Each entry lists the name of the script and what the script does.
+
+### Basic Syntax and Variables
 
 1. `basic_hello_world.py`
    
 Defines your name and prints a greeting.
 
-**advanced_hello_world.py** Defines the variables for a hello world script, greets the user and provides a return greeting.
+2. `advanced_hello_world.py`
+  
+Defines the variables for a hello world script, greets the user and provides a return greeting.
 
-**meals.py** Defines variables for food eaten at various mealsand prints what is eaten at each.
+3. `meals.py`
+  
+Defines variables for food eaten at various mealsand prints what is eaten at each.
 
-**integer.py** Defines variables for several integers and performs a basic calculation.
+4. `integer.py`
+  
+Defines variables for several integers and performs a basic calculation.
 
-**basic_calculation.py** Prints a basic mathematical calculation to the terminal.
+5. `basic_calculation.py`
 
-**basic_calculation.py** Takes two variables, multiples them, and prints the output to the terminal.
+Prints a basic mathematical calculation to the terminal.
 
-**exponents.py** Multiplies and exponentiates several variables.
+6. `exponents.py`
+  
+Multiplies and exponentiates several variables.
 
-**exponents.py** Performs module calculations on several variables and prints the output to the terminal.
+7. `exponents.py`
+  
+Performs module calculations on several variables and prints the output to the terminal.
 
-**concatenatation.py** Defines multiple strings, concatenates them together and prints the output to the terminal.
+8. `concatenatation.py`
 
-**plus_equals.py** Defines multiple variables, adds them together, and appends the output to the end of a string on the terminal.
+Defines multiple strings, concatenates them together and prints the output to the terminal.
 
-**multi_line_string.py** Defines a multi-line string and prints to the terminal.
+9. `plus_equals.py`
 
-**ascii_art.py** Defines ascii art and prints out symmetrically to the terminal.
+Defines multiple variables, adds them together, and appends the output to the end of a string on the terminal.
+
+10. `multi_line_string.py`
+   
+Defines a multi-line string and prints to the terminal.
+
+11. `ascii_art.py`
+
+Defines ascii art and prints out symmetrically to the terminal.
+
+
+
 
 **boolean_variables.py** Defines boolean variables, prints True or False to the terminal as well as the class of variable.
 
@@ -55,6 +84,9 @@ Defines your name and prints a greeting.
 **else_if_statement.py** Defines multiple variables, evaluates an else if statement, prints expected output to the terminal.
 
 **advanced_else_if_statement.py** Defines multiple variables, evaluates an advanced else if statement, prints expected output to the terminal.
+
+
+
 
 **list_method.py** Defines a list, removes the final integer and prints the remainder to the terminal.
 
