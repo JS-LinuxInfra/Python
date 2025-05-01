@@ -66,6 +66,15 @@ These are my Python scripts. Each entry lists the name of the script and what th
 
 **remove_list.py** Defines a list, removes an element and prints updated list to the terminal.
 
+**2d_list.py** Create 2D list, update elements, print updated elements to the terminal.
+
+**modify_2d_list.py** Create 2D list, modify elements and print output to the terminal.
+
+**advanced_modify_2d_list.py** Modify 2D list via both insertion and removal of elements in customer data list, then print the updated list.
+
+Output:
+[['Ken', 'American', 9], ['Tanya', 'Ukrainian', 9], ['Madison', 'Indian', 7]]
+
 ## Code
 This is the code I have written. Each program details what the program does and what the end result ended up being.
 
@@ -74,6 +83,8 @@ This is the code I have written. Each program details what the program does and 
 **magic_8_ball.py** This code takes the user's name, prompts them to ask a question, executes a random number generator, and the randomly decided integer then determines the string printed to the terminal to answer their question.
 
 **sals_shipping.py** This code takes the weight from a user, compares it to the available shipping options and provides the customer with the cost for each option based on the weight of what they are shipping.
+
+**gradebook.py** This code details multiple subjects and grades, determine pass/fail paramaters, modify via adding and removal of grades, print updated gradebook to terminal.
 
 ## Contributing
 Any and all feedback is always welcome.
