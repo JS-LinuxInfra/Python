@@ -1,4 +1,5 @@
 # Python
+**Please note. This repo is currently in a WIP state, as I work to migrate scripts and code I have written, cleanup, comment and document functionality. As such, it may not be as cohesive or organized as it will be when everything has been migrated. Thank you in advance for your patience.**
 Python scripting for everyday system engineering tasks. The goal is to automate repetitive work, speed up troubleshooting, and improve my overall proficiency with Python. This will be an ongoing project.
 
 ## Table of Contents
