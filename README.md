@@ -64,6 +64,8 @@ These are my Python scripts. Each entry lists the name of the script and what th
 
 **modify_list.py** Defines a list, insert elements using positive and negative indexing, pring modified list to the terminal.
 
+**remove_list.py** Defines a list, removes an element and prints updated list to the terminal.
+
 ## Code
 This is the code I have written. Each program details what the program does and what the end result ended up being.
 
