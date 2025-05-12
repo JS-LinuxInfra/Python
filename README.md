@@ -147,9 +147,9 @@ Create 2D list, modify elements and print output to the terminal.
 
 Modify 2D list via both insertion and removal of elements in customer data list, then print the updated list.
 
-### String
+### Strings
 
-1. string_slice.py
+1. `string_slice.py`
 
 Creates two variables, slices a beginning range, prints the output, slices a range in the middle of a string, and prints this output to the terminal.
 
