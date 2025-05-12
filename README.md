@@ -8,6 +8,7 @@ Python scripting for everyday system engineering tasks along with tooling I have
 - [Basic Syntax and Variables](#basic-syntax-and-variables)
 - [Boolean Variables and if/elif/else statements](#boolean-variables-and-if/elif/else-statements)
 - [Lists](#lists)
+- [Strings](#strings)
 - [Code](#code)
 - [Contributing](#contributing)
 - [License](#license)
@@ -145,6 +146,12 @@ Create 2D list, modify elements and print output to the terminal.
 9. `advanced_modify_2d_list.py`
 
 Modify 2D list via both insertion and removal of elements in customer data list, then print the updated list.
+
+### String
+
+1. string_slice.py
+
+Creates two variables, slices a beginning range, prints the output, slices a range in the middle of a string, and prints this output to the terminal.
 
 ## Code
 
