@@ -153,6 +153,26 @@ Modify 2D list via both insertion and removal of elements in customer data list,
 
 Creates two variables, slices a beginning range, prints the output, slices a range in the middle of a string, and prints this output to the terminal.
 
+2. `slice_concatenate.py`
+
+Defines two variables, concatenates the preeceeding slice for each together, assigns to a new variable, and prints to the terminal.
+
+3. `variable_slice_concatenation.py`
+
+Defines two variables, concatenates the preeceeding slice for each together with variable length slices, assigns to a new variable, and prints to the terminal.
+
+4. `negative_indice.py`
+
+Defines two variables, grabs the last character and saves to a new variable, prints the output to the terminal, then creates another variable, and slices the last four characters, assigns them to a new variable and prints to the terminal.
+
+5. `correct_string.py`
+
+Correct the first variable typo by creating a new variable, assigning the correct first letter, and concatenating a corrected slice of this to fix the first variable.
+
+6. `escape_character.py`
+
+Define the variable, correct using escape charaters to address the use of quotes within a string.
+
 ## Code
 
 This is the code I have written. Each program details what the program does and what the end result ended up being.
