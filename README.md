@@ -62,6 +62,14 @@ Defines a multi-line string and prints to the terminal.
 
 Defines ASCII art and prints symmetrically to the terminal.
 
+11. `print_name.py`
+
+Defines a name to a VAR and prints to the terminal.
+
+12. `first_letter.py`
+
+Selects the first letter from a name, assigns to a second variable then prints the output to the terminal.
+
 ### Boolean Variables and if/elif/else statements
 
 1. `boolean_variables.py`
