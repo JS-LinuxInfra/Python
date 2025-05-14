@@ -1,27 +1,15 @@
-# We've defined the variable "meal" here to the name of the food we ate for breakfast!
+#Define variable
 meal = "An English muffin"
-
-# Printing out breakfast
+#Printing out breakfast and defined meal
 print("Breakfast:")
 print(meal)
-
-# Now update meal to be lunch!
+#Define lunch meal
 meal = "A Rueben sandwich"
-
-# Printing out lunch
+#Print out lunch and defined meal
 print("Lunch:")
 print(meal)
-
-# Now update "meal" to be dinner
+#Define dinner meal
 meal = "Pizza"
-
-# Printing out dinner
+#Print out dinner and define meal
 print("Dinner:")
 print(meal)
-
-Breakfast:
-An English muffin
-Lunch:
-A Rueben sandwhich
-Dinner:
-Pizza
