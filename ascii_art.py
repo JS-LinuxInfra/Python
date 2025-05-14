@@ -1,5 +1,5 @@
 # My name is Justin Sniesak
-# This will define my first and last initial using ASCII characters
+#This will define my first and last initial using ASCII characters
 first_last_letters="""
 J J J J J      S S S
     J        S       S
