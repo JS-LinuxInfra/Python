@@ -1,6 +1,6 @@
-#Define variable
+#Define list
 shopping_list = ["eggs", "butter", "milk", "cucumbers", "juice", "cereal"]
-#Use negative indexing to grab element from list
+#Use negative indexing & indexing to grab element from list
 last_element = shopping_list[-1]
 index5_element = shopping_list[5]
 #Print output
