@@ -1,8 +1,8 @@
+#Print strings
 print("I have information for the following planets:\n")
-
 print("   1. Venus   2. Mars    3. Jupiter")
 print("   4. Saturn  5. Uranus  6. Neptune\n")
- 
+#Define variables
 weight = 185
 planet = 3
 
@@ -19,11 +19,3 @@ elif planet == 5:
  print("Your weight on Uranus is", weight * 0.92)
 elif planet == 6:
  print("Your weight on Neptune is", weight * 1.19)
-
-Output:
-  I have information for the following planets:
-
-   1. Venus   2. Mars    3. Jupiter
-   4. Saturn  5. Uranus  6. Neptune
-
-Your weight on Jupiter is 432.9
