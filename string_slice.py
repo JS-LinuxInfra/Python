@@ -1,3 +1,4 @@
+#Define variables
 first_name = "Rodrigo"
 last_name = "Villanueva"
 
@@ -6,4 +7,5 @@ new_account = last_name[:5]
 print(new_account)
 #Creates a temp password containing the third to the sixth letters of their last name
 temp_password = last_name[2:6]
+#Print output to the terminal
 print(temp_password)
