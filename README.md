@@ -177,6 +177,10 @@ Define the variable, correct using escape charaters to address the use of quotes
 
 Create the function, add a for loop and increment through the letters of the string, then print the total numerator count for the string argument.
 
+8. `string_conditional.py`
+
+Creates function, adds if/else statement,prints the output using a Boolean value based on if/else statement.
+
 ## Code
 
 This is the code I have written. Each program details what the program does and what the end result ended up being.
