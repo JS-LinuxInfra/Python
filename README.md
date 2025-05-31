@@ -179,7 +179,11 @@ Create the function, add a for loop and increment through the letters of the str
 
 8. `string_conditional.py`
 
-Creates function, adds if/else statement,prints the output using a Boolean value based on if/else statement.
+Creates a function, adds if/else statement,prints the output using a Boolean value based on if/else statement.
+
+9. `in_string.py`
+
+Creates a function, defines function check to see if the smaller string is in the larger string, then prints the result to the terminal with a boolean value as the output.
 
 ## Code
 
