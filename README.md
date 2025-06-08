@@ -185,6 +185,10 @@ Creates a function, adds if/else statement,prints the output using a Boolean val
 
 Creates a function, defines function check to see if the smaller string is in the larger string, then prints the result to the terminal with a boolean value as the output.
 
+10. `advanced_strings.py`
+
+Defines a function, defines VARs that shift that slice the first three and first four letters respectivly from each string and consolodate them to generate a username which is printed to the terminal. Then, defines a second function that identifies two passwords with f-string VARs to generate a password. Outside of the second function, an additional variable is then defined which allows for the output printed to the terminal for each password the user may select to be printed to the terminal as a string in two seperate lines as opposed to printing the output as a tuple.
+
 ## Code
 
 This is the code I have written. Each program details what the program does and what the end result ended up being.
